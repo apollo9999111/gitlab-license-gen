@@ -1,2 +1,2 @@
 ## Example
-Replace `.pub` with your public key.
+Replace `*.pub` with your public key.
